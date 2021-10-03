@@ -13,7 +13,7 @@ In this tutorial series we are going to explain some ways to do transitions in a
 In this tutorial series we are going to explain some ways to do transitions in a 3D world. In a previous tutorial we have seen how to make 2D screen transitions, like in a Pokemon game, now we are going to apply that to 3D environments
 
 * [Transicion de pantalla dividida](https://www.parallelcube.com/es/2021/08/17/transiciones-de-nivel-parte-1/)
-* [Transicion cilindrica](https://www.parallelcube.com/es/2021/10/02/transiciones-de-nivel-parte-2/)
+* [Transicion cilindrica](https://www.parallelcube.com/es/2021/10/03/transiciones-de-nivel-parte-2/)
 
 ## More UE4 Tutorials and gamedev
 
